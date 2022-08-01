@@ -2,7 +2,7 @@
 - 👀 I’m interested in audio software
 - 🌱 I’m currently learning C++/JUCE
 - 💞️ I’m looking to collaborate on a plug-in!
-- 📫 How to reach me https://www.kevinkopczynski.com/
+- 📫 How to reach me https://www.kkaud.io/
 
 <!---
 KevinToodlepoot/KevinToodlepoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
